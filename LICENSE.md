@@ -1,4 +1,4 @@
-# 
+# high-frequency dexscreener sniper bot | gas-optimization + liquidity-pool-analysis is the best dexscreener sniper bot, featuring gas-optimization and liquidity-pool-analysis.
 
 
 
